@@ -1,0 +1,214 @@
+
+<!-- saved from url: local development -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="content-language" content="en-EN">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>Virtual Try-On</title>
+    <link rel="stylesheet" href="./web_files/bootstrap.min.css">
+    <link rel="stylesheet" href="./web_files/style.css">
+    <link rel="stylesheet" href="./web_files/owl.carousel.min.css">
+  <style>.mindar-ui-overlay{display:flex;align-items:center;justify-content:center;position:absolute;left:0;right:0;top:0;bottom:0;background:transparent;z-index:2}.mindar-ui-overlay.hidden{display:none}.mindar-ui-loading .loader{border:16px solid #222;border-top:16px solid white;opacity:.8;border-radius:50%;width:120px;height:120px;animation:spin 2s linear infinite}@keyframes spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}.mindar-ui-compatibility .content{background:black;color:#fff;opacity:.8;text-align:center;margin:20px;padding:20px;min-height:50vh}@media (min-aspect-ratio: 1/1){.mindar-ui-scanning .scanning{width:50vh;height:50vh}}@media (max-aspect-ratio: 1/1){.mindar-ui-scanning .scanning{width:80vw;height:80vw}}.mindar-ui-scanning .scanning .inner{position:relative;width:100%;height:100%;opacity:.8;background:linear-gradient(to right,white 10px,transparent 10px) 0 0,linear-gradient(to right,white 10px,transparent 10px) 0 100%,linear-gradient(to left,white 10px,transparent 10px) 100% 0,linear-gradient(to left,white 10px,transparent 10px) 100% 100%,linear-gradient(to bottom,white 10px,transparent 10px) 0 0,linear-gradient(to bottom,white 10px,transparent 10px) 100% 0,linear-gradient(to top,white 10px,transparent 10px) 0 100%,linear-gradient(to top,white 10px,transparent 10px) 100% 100%;background-repeat:no-repeat;background-size:40px 40px}.mindar-ui-scanning .scanning .inner .scanline{position:absolute;width:100%;height:10px;background:white;animation:move 2s linear infinite}@keyframes move{0%,to{top:0%}50%{top:calc(100% - 10px)}}</style></head>
+  <body>
+    <div class="loader">
+      <img width="180" class="mb-3" src="./web_files/logo.png">
+      <img class="loader-image" src="./web_files/loader.png" alt="" style="display: none;">
+      <small class="text-danger">Camera access is blocked, Please allow camera access in your browser settings.</small>
+    </div>
+
+    <div class="loader loader-2" style="display: flex;">
+      <div class="spinner-grow mb-2" role="status">
+      </div>
+      <small class="text-danger">Camera access is blocked, Please allow camera access in your browser settings.</small>
+    </div>
+    <div class="wrapper">
+      <div class="header">
+        <a onclick="window.history.back()">
+          <img class="arrow-back icon-white" src="./web_files/arrow-back.png">
+        </a>
+          <img class="logo icon-white" src="./web_files/logo.png">
+          <img class="category-season-arrow category-season-prev icon-white" data-season="" src="./web_files/arrow-slider.png" alt="">
+          <img class="category-season" alt="">
+          <img class="category-season-arrow category-season-next icon-white" data-season="" src="./web_files/arrow-slider.png" alt="">
+      </div>
+    
+      <div id="webar_container">
+        <div class="makeup-vto"><canvas data-engine="three.js r160" width="0" height="0" style="display: block; width: 558px; position: absolute; top: 0px; left: 0px;"></canvas><div style="overflow: hidden; width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; transform-origin: left top;"><div style="transform-origin: 0px 0px; pointer-events: none; width: 0px; height: 0px;"><div style="transform-style: preserve-3d; width: 0px; height: 0px;"></div></div></div><canvas id="full_face_canvas" data-engine="three.js r160" width="558" height="0" style="top: 0px; left: 0px; width: 558px; height: 0px;"></canvas><canvas id="glitter_canvas" data-engine="three.js r160" width="558" height="0" style="top: 0px; left: 0px; width: 558px; height: 0px;"></canvas><canvas id="glitter_2d_canvas" width="558" height="0" style="top: 0px; left: 0px;"></canvas><canvas id="video_canvas" width="558" height="0" style="top: 0px; left: 0px;"></canvas><video autoplay="" muted="" playsinline="" style="position: absolute; top: 0px; left: 0px; z-index: -2; width: 558px; transform: scaleX(-1);" width="0" height="0"></video></div>
+        <img class="arrow-divider" src="./web_files/arrow-diff.png" draggable="false">
+        <div class="divider"><canvas id="cloned_video_canvas" width="558" height="0" style="top: 0px; left: 0px;"></canvas></div>
+        <div class="lighting-detect">
+          Lighting too dark
+        </div>
+      </div>
+      <div class="controls-wrapper">
+        <div class="bg-inner-gray">
+          <ul class="tab-makeup horizontal-scroll nav nav-tabs border-0 pb-2 mb-1 mb-2" id="tab_parent" role="tablist">
+            <li class="nav-item" role="presentation">
+              <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#complexion" type="button" role="tab" aria-selected="true"><span class="colorft-text"><img src="./web_files/colorft-text.png" alt=""> COMPLEXION</span></button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" data-bs-toggle="tab" data-bs-target="#lightening" type="button" role="tab" aria-selected="false" tabindex="-1">LIGHTENING</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" data-bs-toggle="tab" data-bs-target="#lisptick" type="button" role="tab" aria-selected="false" tabindex="-1">LIP</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" data-bs-toggle="tab" data-bs-target="#eyeshadow" type="button" role="tab" aria-selected="false" tabindex="-1">EYE</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" data-bs-toggle="tab" data-bs-target="#blush" type="button" role="tab" aria-selected="false" tabindex="-1">BLUSH ON</button>
+            </li>
+          </ul>
+          <div class="tab-makeup-content tab-content border-0" id="tab_parentContent">
+            <!-- Tab lipstick -->
+            <div class="tab-pane fade" id="lisptick" role="tabpanel">
+              <!-- Tab Child -->
+              <ul class="nav nav-tabs border-0 pb-2 mb-1" id="tab_lipstick" role="tablist">
+                <div class="carousel owl-carousel">
+                </div>
+              </ul>
+              <div class="tab-content border-0" id="tab_lipstickContent">
+                <div class="available-color semi-bold d-landscape-block mt-4 mb-2">
+                  Warna Tersedia
+                </div>
+              </div>
+            </div>
+            
+            <!-- Tab Complexion -->
+            <div class="tab-pane fade show active" id="complexion" role="tabpanel">
+              <!-- Tab Child -->
+              <ul class="nav nav-tabs border-0 pb-2 mb-1" id="tab_complexion" role="tablist">
+                <div class="carousel owl-carousel">
+                </div>
+              </ul>
+              <div class="tab-content border-0" id="tab_complexionContent">
+                <div class="available-color semi-bold d-landscape-block mt-4 mb-2">
+                  Colour Available
+                </div>
+              </div>
+            </div>
+            
+            <!-- Tab Lightening -->
+            <div class="tab-pane fade" id="lightening" role="tabpanel">
+              <!-- Tab Child -->
+              <ul class="nav nav-tabs border-0 pb-2 mb-1" id="tab_lightening" role="tablist">
+                <div class="carousel owl-carousel">
+                </div>
+              </ul>
+              <div class="tab-content border-0" id="tab_lighteningContent">
+                <div class="available-color semi-bold d-landscape-block mt-4 mb-2">
+                  Colour Available
+                </div>
+              </div>
+            </div>
+            
+            <!-- Tab Eyeshadow -->
+            <div class="tab-pane fade" id="eyeshadow" role="tabpanel">
+              <!-- Tab Child -->
+              <ul class="nav nav-tabs border-0 pb-2 mb-1" id="tab_eyeshadow" role="tablist">
+                <div class="carousel owl-carousel">
+                </div>
+              </ul>
+              <div class="tab-content border-0" id="tab_eyeshadowContent">
+                <div class="available-color semi-bold d-landscape-block mt-4 mb-2">
+                  Colour Available
+                </div>
+              </div>
+            </div>
+            
+            <!-- Tab Blush -->
+            <div class="tab-pane fade" id="blush" role="tabpanel">
+              <!-- Tab Child -->
+              <ul class="nav nav-tabs border-0 pb-2 mb-1" id="tab_blush" role="tablist">
+                <div class="carousel owl-carousel">
+                </div>
+              </ul>
+              <div class="tab-content border-0" id="tab_blushContent">
+                <div class="available-color semi-bold d-landscape-block mt-4 mb-2">
+                  Colour Available
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer d-landscape-flex justify-content-end px-0 bg-white mt-4">
+            <a class="btn btn-primary btn-icon button-capture submit-photo">
+              <i>PHOTO</i>
+            </a>
+          </div>
+          <div class="footer d-portrait-flex">
+            <a class="button-capture btn btn-primary btn-icon submit-photo">
+              <i>PHOTO</i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <a id="downloader"></a>
+    <div class="capture-wrapper"></div>
+    
+    <div class="modal fade in" id="modal_capture" data-bs-backdrop="static" data-bs-keyboard="false">
+      <div class="modal-dialog modal-fullscreen w-100">
+        <div class="modal-content border-none bg-transparent">
+            <div class="modal-body border-nonebg-transparent d-flex justify-content-around flex-column align-items-center pb-5">
+            <img class="image-captured" src="" alt="">
+            <div class="d-flex justify-content-center align-items-center py-2 gap-3">
+              <a class="button-share btn btn-primary">Share</a>
+              <a class="button-download btn btn-primary">Download</a>
+              <a data-bs-dismiss="modal" class="btn btn-light btn-primary">Close</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "./assets/js/three.module.min.js",
+        "three/addons/": "./assets/js/three/addons/",
+        "effectComposer": "./assets/js/three/addons/postprocessing/EffectComposer.js",
+        "renderPass": "./assets/js/three/addons/postprocessing/RenderPass.js",
+        "shaderPass": "./assets/js/three/addons/postprocessing/ShaderPass.js",
+        "horizontalBlurShader": "./assets/js/three/addons/shaders/HorizontalBlurShader.js",
+        "verticalBlurShader": "./assets/js/three/addons/shaders/VerticalBlurShader.js",
+        "copyShader": "./assets/js/three/addons/shaders/CopyShader.js",
+        "mindar-face-three": "./assets/js/mindar-face-three.prod.js"
+      }
+    }
+  </script>
+  <script type="module" src="./web_files/owl.carousel.min.js"></script>
+  <script src="./web_files/dom-to-image.min.js"></script>
+  <script src="./web_files/bootstrap.bundle.min.js"></script>
+  <script src="./web_files/jquery.js"></script>
+  <script src="./web_files/howler.min.js"></script>
+  <script type="module" src="./web_files/custom.js"></script>
+  
+<div class="mindar-ui-overlay mindar-ui-loading">
+  <div class="loader">
+</div></div><div class="mindar-ui-overlay mindar-ui-compatibility hidden">
+  <div class="content">
+    <h1>Failed to launch :(</h1>
+    <p>
+      Looks like your device/browser is not compatible.
+    </p>
+
+    <br>
+    <br>
+    <p>
+      Please try the following recommended browsers:
+    </p>
+    <p>
+      For Android device - Chrome
+    </p>
+    <p>
+      For iOS device - Safari
+    </p>
+  </div>
+</div><div class="mindar-ui-overlay mindar-ui-scanning hidden">
+  <div class="scanning">
+    <div class="inner">
+      <div class="scanline">
+    </div>
+  </div>
+</div></div></body></html>

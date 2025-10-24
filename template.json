@@ -1,0 +1,1578 @@
+{
+  "complexion": [
+    {
+      "code": "#11C",
+      "share_products": "11C-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/11C-1.png",
+          "color": "#F3C4BF",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/11C-2.png",
+          "color": "#F3C4BF",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/11C-3.png",
+          "color": "#F3C4BF",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/11C-4.png",
+          "color": "#F3C4BF",
+          "category": "feel",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/11C-5.png",
+          "color": "#F3C4BF",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/11C-6.png",
+          "color": "#F3C4BF",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#21C",
+      "share_products": "21C-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/21C-1.png",
+          "color": "#EDB3A0",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/21C-cloud.png",
+          "color": "#EDB3A0",
+          "category": "cushion",
+          "type": "complexion"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#21W",
+      "share_products": "21W-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/21W-cloud.png",
+          "color": "#F1BF9F",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/21W-1.png",
+          "color": "#F1BF9F",
+          "category": "cushion",
+          "type": "complexion"
+        }
+      ]
+    },
+    {
+      "code": "#22N",
+      "share_products": "22N-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/22N-1.png",
+          "color": "#F0BF9B",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/22N-cloud.png",
+          "color": "#F0BF9B",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/22N-2.png",
+          "color": "#F0BF9B",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/22N-3.png",
+          "color": "#F0BF9B",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/22N-4.png",
+          "color": "#F0BF9B",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/22N-5.png",
+          "color": "#F0BF9B",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#23W",
+      "share_products": "23W-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/23W-1.png",
+          "color": "#ECBA93",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/23W-cloud.png",
+          "color": "#ECBA93",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/23W-2.png",
+          "color": "#ECBA93",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/23W-3.png",
+          "color": "#ECBA93",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/23W-4.png",
+          "color": "#ECBA93",
+          "category": "feel",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/23W-5.png",
+          "color": "#ECBA93",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/23W-6.png",
+          "color": "#ECBA93",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/23W-7.png",
+          "color": "#ECBA93",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#31C",
+      "share_products": "31C-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/31C-1.png",
+          "color": "#E4957E"
+        }
+      ]
+    },
+    {
+      "code": "#31W",
+      "share_products": "31W-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/31W-cloud.png",
+          "color": "#E19E78",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/31W-1.png",
+          "color": "#E19E78",
+          "category": "cushion",
+          "type": "complexion"
+        }
+      ]
+    },
+    {
+      "code": "#32N",
+      "share_products": "32N-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/32N-1.png",
+          "color": "#D5A286",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/32N-cloud.png",
+          "color": "#D5A286",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/32N-2.png",
+          "color": "#D5A286",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/32N-3.png",
+          "color": "#D5A286",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/32N-4.png",
+          "color": "#D5A286",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/32N-5.png",
+          "color": "#D5A286",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/32N-6.png",
+          "color": "#D5A286",
+          "category": "concealer",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/32N-7.png",
+          "color": "#D5A286",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#33W",
+      "share_products": "33W-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/33W-1.png",
+          "color": "#DFA880",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/33W-cloud.png",
+          "color": "#DFA880",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/33W-2.png",
+          "color": "#DFA880",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/33W-3.png",
+          "color": "#DFA880",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/33W-4.png",
+          "color": "#DFA880",
+          "category": "feel",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/33W-5.png",
+          "color": "#DFA880",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#34W",
+      "share_products": "34W-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/34W-cloud.png",
+          "color": "#F4B793"
+        },
+        {
+          "image": "./assets/images/complexion/34W-1.png",
+          "color": "#F4B793"
+        }
+      ]
+    },
+    {
+      "code": "#41W",
+      "share_products": "41W-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/41W-cloud.png",
+          "color": "#AE764C",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/41W-1.png",
+          "color": "#AE764C",
+          "category": "cushion",
+          "type": "complexion"
+        }
+      ]
+    },
+    {
+      "code": "#42N",
+      "share_products": "42N-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/42N-1.png",
+          "color": "#D8A380",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/42N-cloud.png",
+          "color": "#D8A380",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/42N-2.png",
+          "color": "#D8A380",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/42N-3.png",
+          "color": "#D8A380",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/42N-4.png",
+          "color": "#D8A380",
+          "category": "feel",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/42N-5.png",
+          "color": "#D8A380",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/42N-6.png",
+          "color": "#D8A380",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#43W",
+      "share_products": "43W-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/43W-1.png",
+          "color": "#DD9767",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/43W-2.png",
+          "color": "#DD9767",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/43W-3.png",
+          "color": "#DD9767",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/43W-4.png",
+          "color": "#DD9767",
+          "category": "feel",
+          "type": "lightening"
+        },
+        {
+          "image": "./assets/images/complexion/43W-5.png",
+          "color": "#DD9767",
+          "category": "concealer",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    },
+    {
+      "code": "#52N",
+      "share_products": "52N-share.png",
+      "item": [
+        {
+          "image": "./assets/images/complexion/52N-1.png",
+          "color": "#A6631B",
+          "category": "cushion",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/52N-2.png",
+          "color": "#A6631B",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/52N-3.png",
+          "color": "#A6631B",
+          "type": "complexion"
+        },
+        {
+          "image": "./assets/images/complexion/52N-4.png",
+          "color": "#A6631B",
+          "category": "feel",
+          "type": "lightening"
+        }
+      ],
+      "hijab": [
+        "#ff16c5",
+        "#2020ff",
+        "#a900f3"
+      ]
+    }
+  ],
+  "season": [
+    {
+      "season": "spring",
+      "tone": "warm",
+      "headerBG": "./assets/images/header/spring.png",
+      "headerTitle": "./assets/images/header/personal.png",
+      "palette": [
+        "#FCF3BA",
+        "#63D563",
+        "#FAB357",
+        "#F8A9A5",
+        "#AA549E",
+        "#EFCEA5",
+        "#CDEE7B",
+        "#FD9675",
+        "#E85F79",
+        "#FAAD55",
+        "#FDE470",
+        "#60A224",
+        "#ACEABC",
+        "#FE99AB",
+        "#2FCCED",
+        "#926F45",
+        "#A6AB2A",
+        "#92D472",
+        "#FCD4D5",
+        "#3F8EAF"
+      ],
+      "makeupTitleBG": "./assets/images/header/spring_title.png",
+      "lips": [
+        {
+          "category": "Matte Lip Cream",
+          "categoryImage": "./assets/images/products/lip-cream-title.png",
+          "item": [
+            {
+              "color": "#C47066",
+              "code": "30",
+              "name": "Amberella",
+              "image": "./assets/images/products/lipcream/30-amberella.png"
+            },
+            {
+              "color": "#d87a71",
+              "code": "05",
+              "name": "Speachles",
+              "image": "./assets/images/products/lipcream/05-speachles.png"
+            },
+            {
+              "color": "#d22e30",
+              "code": "06",
+              "name": "Feeling Red",
+              "image": "./assets/images/products/lipcream/06-feeling-red.png"
+            },
+            {
+              "color": "#c96866",
+              "code": "20",
+              "name": "Peach of Mind",
+              "image": "./assets/images/products/lipcream/20-peach-of-mind.png"
+            },
+            {
+              "color": "#cc5b5b",
+              "code": "26",
+              "name": "Pink A Boo",
+              "image": "./assets/images/products/lipcream/26-Pink-A-Boo_WVS_84735OK.png"
+            },
+            {
+              "color": "#e4a199",
+              "code": "27",
+              "name": "Beehave",
+              "image": "./assets/images/products/lipcream/27-Beehave_WVS_84667OK.png"
+            }
+          ]
+        },
+        {
+          "category": "Glasting Liquid Lip",
+          "categoryImage": "./assets/images/products/lip-glasting-title.png",
+          "item": [
+            {
+              "color": "#b5695c",
+              "code": "01",
+              "name": "Caramel Coat",
+              "image": "./assets/images/products/lipglasting/01-caramel-coat.png"
+            },
+            {
+              "color": "#d37472",
+              "code": "04",
+              "name": "Rosewood Radiance",
+              "image": "./assets/images/products/lipglasting/04-rosewood-radiance.png"
+            },
+            {
+              "color": "#a3040f",
+              "code": "07",
+              "name": "Rouge Flare",
+              "image": "./assets/images/products/lipglasting/07-Rouge-Flare_WVS_84186OK.png"
+            },
+            {
+              "color": "#d88b7e",
+              "code": "10",
+              "name": "Ombree Sheen",
+              "image": "./assets/images/products/lipglasting/10-Ombre-Sheen_WVS_84344OK.png"
+            }
+          ]
+        },
+        {
+          "category": "Moist Dew Tint",
+          "categoryImage": "./assets/images/products/moist-dew-title.png",
+          "item": [
+            {
+              "color": "#e89b93",
+              "code": "03",
+              "name": "Peach creme",
+              "image": "./assets/images/products/moistdewtint/03-peach-creme.png"
+            },
+            {
+              "color": "#961414",
+              "code": "06",
+              "name": "Cherry Gelato",
+              "image": "./assets/images/products/moistdewtint/06-cherry-gelato.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Velvet Matte Lip Mousse",
+          "categoryImage": "./assets/images/products/lip-mousse-title.png",
+          "item": [
+            {
+              "color": "#e19372",
+              "code": "09",
+              "name": "Ombre Charmer",
+              "image": "./assets/images/products/lipmousse/09-ombre-charmer.png"
+            },
+            {
+              "color": "#d95a48",
+              "code": "10",
+              "name": "Lively Coral",
+              "image": "./assets/images/products/lipmousse/10-lively-coral.png"
+            },
+            {
+              "color": "#d87156",
+              "code": "17",
+              "name": "Beyond Sunset",
+              "image": "./assets/images/products/lipmousse/17-beyond-sunset.png"
+            },
+            {
+              "color": "#e1866c",
+              "code": "18",
+              "name": "Serene Sienna",
+              "image": "./assets/images/products/lipmousse/18-serene-sienna.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Last All Day Lip Paint",
+          "categoryImage": "./assets/images/products/lip-paint-title.png",
+          "item": [
+            {
+              "color": "#be635f",
+              "code": "02",
+              "name": "Eternal Sunset",
+              "image": "./assets/images/products/lippaint/02-eternal-sunset.png"
+            },
+            {
+              "color": "#c56f63",
+              "code": "05",
+              "name": "Stay Russet",
+              "image": "./assets/images/products/lippaint/05-stay-russet.png"
+            },
+            {
+              "color": "#bb8976",
+              "code": "13",
+              "name": "Dubai Lux",
+              "image": "./assets/images/products/lippaint/13-dubai-lux.png"
+            },
+            {
+              "color": "#a1605a",
+              "code": "15",
+              "name": "Dazzling New York",
+              "image": "./assets/images/products/lippaint/15-dazzling-new-york.png"
+            },
+            {
+              "color": "#eba19f",
+              "code": "18",
+              "name": "Majestic Marrakesh",
+              "image": "./assets/images/products/lippaint/18-majestic-marrakesh.png"
+            },
+            {
+              "color": "#7c1c40",
+              "code": "19",
+              "name": "Authentic Granada",
+              "image": "./assets/images/products/lippaint/19-authentic-granada.png"
+            },
+            {
+              "color": "#d27d6c",
+              "code": "20",
+              "name": "Mermeric Paris",
+              "image": "./assets/images/products/lippaint/20-mermeric-paris.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Ultralight Matte Lipstick",
+          "categoryImage": "./assets/images/products/lipstick-title.png",
+          "item": [
+            {
+              "color": "#dfa396",
+              "code": "03",
+              "name": "Caramel Nude",
+              "image": "./assets/images/products/lipstick/03-caramel-nude.png"
+            },
+            {
+              "color": "#a2333b",
+              "code": "07",
+              "name": "Crimson Red",
+              "image": "./assets/images/products/lipstick/07-crimson-red.png"
+            },
+            {
+              "color": "#b05751",
+              "code": "11",
+              "name": "Sunkissed Jeju",
+              "image": "./assets/images/products/lipstick/11-sunkissed-jeju.png"
+            }
+          ]
+        }
+      ],
+      "eyes": [
+        {
+          "category": "Exclusive Eyeshadow 01 Sunset Brown",
+          "categoryImage": "./assets/images/products/eye-title-1-1.png",
+          "item": [
+            {
+              "colors": [
+                "#f9dbd6",
+                "#c99278",
+                "#e39c72",
+                "#a56c65",
+                "#c3875f",
+                "#7f5846",
+                "#9d5838",
+                "#c99278"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Quad Eye Palette",
+          "categoryImage": "./assets/images/products/eye-title-2.png",
+          "item": [
+            {
+              "image": "./assets/images/warmtone/warm_eye_2.png",
+              "colors": [
+                "glitter-dawn1",
+                "#925a45",
+                "glitter-dawn2",
+                "#6c4f3d"
+              ]
+            },
+            {
+              "image": "./assets/images/warmtone/warm_eye_3.png",
+              "colors": [
+                "#d9a170",
+                "glitter-blaze1",
+                "#d56b3b",
+                "#a9644b"
+              ]
+            }
+          ]
+        }
+      ],
+      "blushOn": [
+        {
+          "color": "#dd7975",
+          "image": "./assets/images/warmtone/warm_blush_1.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Sand Coral"
+        },
+        {
+          "color": "#cf6f77",
+          "image": "./assets/images/cooltone/cool_blush_2.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Merry Mauve"
+        },
+        {
+          "color": "#e1988c",
+          "image": "./assets/images/warmtone/warm_blush_3.png",
+          "category": "Exclusive Blush On",
+          "name": "Coral Peach"
+        },
+        {
+          "color": "#d36154",
+          "image": "./assets/images/warmtone/cream_blush_6.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Soulful Brick"
+        }
+      ]
+    },
+    {
+      "season": "autumn",
+      "tone": "warm",
+      "headerBG": "./assets/images/header/autumn.png",
+      "headerTitle": "./assets/images/header/personal.png",
+      "palette": [
+        "#F4EED4",
+        "#269E5E",
+        "#EDA951",
+        "#BD2E20",
+        "#73396C",
+        "#DDBF99",
+        "#9E5601",
+        "#E18E30",
+        "#B14A5D",
+        "#DF7001",
+        "#EBD568",
+        "#497C1D",
+        "#B47331",
+        "#F17C8F",
+        "#238BB2",
+        "#66371B",
+        "#7F8420",
+        "#6EAC83",
+        "#DD9598",
+        "#01587D"
+      ],
+      "makeupTitleBG": "./assets/images/header/autumn_title.png",
+      "lips": [
+        {
+          "category": "Matte Lip Cream",
+          "categoryImage": "./assets/images/products/lip-cream-title.png",
+          "item": [
+            {
+              "color": "#9b3634",
+              "code": "07",
+              "name": "Hello Ruby",
+              "image": "./assets/images/products/lipcream/07-hello-ruby.png"
+            },
+            {
+              "color": "#b86d5d",
+              "code": "21",
+              "name": "Creampuccino",
+              "image": "./assets/images/products/lipcream/21-creampuccino.png"
+            },
+            {
+              "color": "#a93b3c",
+              "code": "22",
+              "name": "Rouge Velvet",
+              "image": "./assets/images/products/lipcream/22-rouge-velvet.png"
+            },
+            {
+              "color": "#ba5251",
+              "code": "23",
+              "name": "Rose and Shine",
+              "image": "./assets/images/products/lipcream/23-rose-and-shine.png"
+            },
+            {
+              "color": "#c04b4e",
+              "code": "24",
+              "name": "Cherry Go Round",
+              "image": "./assets/images/products/lipcream/24-cherry-go-round.png"
+            },
+            {
+              "color": "#a7473d",
+              "code": "28",
+              "name": "Teddy Brown",
+              "image": "./assets/images/products/lipcream/28-Teddy-Brown_WVS_84674OK.png"
+            }
+          ]
+        },
+        {
+          "category": "Glasting Liquid Lip",
+          "categoryImage": "./assets/images/products/lip-glasting-title.png",
+          "item": [
+            {
+              "color": "#C36252",
+              "code": "14",
+              "name": "Latte Lacquer",
+              "image": "./assets/images/products/lipglasting/14-latte-lacquer.png"
+            },
+            {
+              "color": "#d87156",
+              "code": "03",
+              "name": "Dazzle Maple",
+              "image": "./assets/images/products/lipglasting/03-dazzle-maple.png"
+            },
+            {
+              "color": "#ba3d43",
+              "code": "06",
+              "name": "Ruby Sparks",
+              "image": "./assets/images/products/lipglasting/06-ruby-sparks.png"
+            },
+            {
+              "color": "#7a0a1b",
+              "code": "09",
+              "name": "Fudge-Toffe",
+              "image": "./assets/images/products/lipglasting/09-Fudge-Toffee_WVS_84377OK.png"
+            },
+            {
+              "color": "#a53533",
+              "code": "13",
+              "name": "Pumpkin Drip",
+              "image": "./assets/images/products/lipglasting/13-Pumpkin-Drip_WVS_84186OK.png"
+            }
+          ]
+        },
+        {
+          "category": "Moist Dew Tint",
+          "categoryImage": "./assets/images/products/moist-dew-title.png",
+          "item": [
+            {
+              "color": "#c86f5d",
+              "code": "04",
+              "name": "Caramel brulee",
+              "image": "./assets/images/products/moistdewtint/04-caramel-brulee.png"
+            },
+            {
+              "color": "#a54141",
+              "code": "06",
+              "name": "Cocoa melt",
+              "image": "./assets/images/products/moistdewtint/05-cocoa-melt.png"
+            },
+            {
+              "color": "#722225",
+              "code": "07",
+              "name": "Plum Sorbet",
+              "image": "./assets/images/products/moistdewtint/07-plum-sorbet.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Velvet Matte Lip Mousse",
+          "categoryImage": "./assets/images/products/lip-mousse-title.png",
+          "item": [
+            {
+              "color": "#a75154",
+              "code": "05",
+              "name": "Artisan Mauve",
+              "image": "./assets/images/products/lipmousse/05-artisan-mauve.png"
+            },
+            {
+              "color": "#bc3f33",
+              "code": "12",
+              "name": "Chic Terracota",
+              "image": "./assets/images/products/lipmousse/12-chic-terracota.png"
+            },
+            {
+              "color": "#b05a45",
+              "code": "13",
+              "name": "Sweet Cinamon",
+              "image": "./assets/images/products/lipmousse/13-sweet-cinamon.png"
+            },
+            {
+              "color": "#a9583d",
+              "code": "14",
+              "name": "Dainty Caramel",
+              "image": "./assets/images/products/lipmousse/14-dainty-caramel.png"
+            },
+            {
+              "color": "#b5695c",
+              "code": "15",
+              "name": "Tranquil Hazel",
+              "image": "./assets/images/products/lipmousse/15-tranquil-hazel.png"
+            },
+            {
+              "color": "#c25547",
+              "code": "16",
+              "name": "Rouge Passion",
+              "image": "./assets/images/products/lipmousse/16-rouge-passion.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Last All Day Lip Paint",
+          "categoryImage": "./assets/images/products/lip-paint-title.png",
+          "item": [
+            {
+              "color": "#d6554f",
+              "code": "07",
+              "name": "Brick On",
+              "image": "./assets/images/products/lippaint/07-brick-on.png"
+            },
+            {
+              "color": "#d84757",
+              "code": "08",
+              "name": "Red Repeat",
+              "image": "./assets/images/products/lippaint/08-red-repeat.png"
+            },
+            {
+              "color": "#b2533e",
+              "code": "16",
+              "name": "Kuala Lumpur Joy",
+              "image": "./assets/images/products/lippaint/16-kuala-lumpur-joy.png"
+            },
+            {
+              "color": "#7f322f",
+              "code": "17",
+              "name": "Tokyo Breeze",
+              "image": "./assets/images/products/lippaint/17-tokyo-breeze.png"
+            },
+            {
+              "color": "#7d232b",
+              "code": "22",
+              "name": "Paranomic Istanbul",
+              "image": "./assets/images/products/lippaint/22-paranomic-istanbul.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Ultralight Matte Lipstick",
+          "categoryImage": "./assets/images/products/lipstick-title.png",
+          "item": [
+            {
+              "color": "#c0635f",
+              "code": "04",
+              "name": "Mocca Brown",
+              "image": "./assets/images/products/lipstick/04-mocca-brown.png"
+            },
+            {
+              "color": "#a74542",
+              "code": "08",
+              "name": "Woodsy Brown",
+              "image": "./assets/images/products/lipstick/08-woodsy-brown.png"
+            },
+            {
+              "color": "#cb695c",
+              "code": "10",
+              "name": "Stunning Seoul",
+              "image": "./assets/images/products/lipstick/10-stunning-soul.png"
+            },
+            {
+              "color": "#a62720",
+              "code": "12",
+              "name": "Autumn Nami",
+              "image": "./assets/images/products/lipstick/12-autumn-nami.png"
+            }
+          ]
+        }
+      ],
+      "eyes": [
+        {
+          "category": "Exclusive Eyeshadow 01 Sunset Brown",
+          "categoryImage": "./assets/images/products/eye-title-1-1.png",
+          "item": [
+            {
+              "colors": [
+                "#f9dbd6",
+                "#c99278",
+                "#e39c72",
+                "#a56c65",
+                "#c3875f",
+                "#7f5846",
+                "#9d5838",
+                "#c99278"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Quad Eye Palette",
+          "categoryImage": "./assets/images/products/eye-title-2.png",
+          "item": [
+            {
+              "image": "./assets/images/warmtone/warm_eye_2.png",
+              "colors": [
+                "glitter-dawn1",
+                "#925a45",
+                "glitter-dawn2",
+                "#6c4f3d"
+              ]
+            },
+            {
+              "image": "./assets/images/warmtone/warm_eye_3.png",
+              "colors": [
+                "#d9a170",
+                "glitter-blaze1",
+                "#d56b3b",
+                "#a9644b"
+              ]
+            }
+          ]
+        }
+      ],
+      "blushOn": [
+        {
+          "color": "#dd7975",
+          "image": "./assets/images/warmtone/warm_blush_1.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Sand Coral"
+        },
+        {
+          "color": "#f0806f",
+          "image": "./assets/images/warmtone/warm_blush_2.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Summer Peach"
+        },
+        {
+          "color": "#e1988c",
+          "image": "./assets/images/warmtone/warm_blush_3.png",
+          "category": "Exclusive Blush On",
+          "name": "Coral Peach"
+        },
+        {
+          "color": "#d36154",
+          "image": "./assets/images/warmtone/cream_blush_6.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Soulful Brick"
+        }
+      ]
+    },
+    {
+      "season": "summer",
+      "tone": "cool",
+      "headerBG": "./assets/images/header/summer.png",
+      "headerTitle": "./assets/images/header/personal_2.png",
+      "palette": [
+        "#FFFFFF",
+        "#C371C6",
+        "#6583C9",
+        "#71E7C7",
+        "#E5A7E6",
+        "#B6B5BB",
+        "#DEA6F1",
+        "#62CDED",
+        "#BA416E",
+        "#6A68A9",
+        "#9E8686",
+        "#9E86C0",
+        "#5A8EE0",
+        "#E769A8",
+        "#4CC5CE",
+        "#000000",
+        "#B5B2E1",
+        "#AA97E6",
+        "#C761A3",
+        "#81B6AE"
+      ],
+      "makeupTitleBG": "./assets/images/header/summer_title.png",
+      "lips": [
+        {
+          "category": "Matte Lip Cream",
+          "categoryImage": "./assets/images/products/lip-cream-title.png",
+          "item": [
+            {
+              "color": "#E48B85",
+              "code": "29",
+              "name": "Blushin' It",
+              "image": "./assets/images/products/lipcream/29-blushin-it.png"
+            },
+            {
+              "color": "#c5807d",
+              "code": "03",
+              "name": "See You Latte",
+              "image": "./assets/images/products/lipcream/03-see-you-latte.png"
+            },
+            {
+              "color": "#cf516c",
+              "code": "08",
+              "name": "Pinkcredible",
+              "image": "./assets/images/products/lipcream/08-pinkcredible.png"
+            },
+            {
+              "color": "#ba686f",
+              "code": "09",
+              "name": "Mauve On",
+              "image": "./assets/images/products/lipcream/09-mauve-on.png"
+            },
+            {
+              "color": "#c58c87",
+              "code": "11",
+              "name": "Oh So Nude",
+              "image": "./assets/images/products/lipcream/11-oh-so-nude.png"
+            },
+            {
+              "color": "#cd7c76",
+              "code": "19",
+              "name": "Have a Blush",
+              "image": "./assets/images/products/lipcream/19-have-a-blush.png"
+            }
+          ]
+        },
+        {
+          "category": "Glasting Liquid Lip",
+          "categoryImage": "./assets/images/products/lip-glasting-title.png",
+          "item": [
+            {
+              "color": "#D87670",
+              "code": "15",
+              "name": "Blossom Veil",
+              "image": "./assets/images/products/lipglasting/15-blossom-veil.png"
+            },
+            {
+              "color": "#c25547",
+              "code": "02",
+              "name": "Peach Polish",
+              "image": "./assets/images/products/lipglasting/02-peach-polish.png"
+            },
+            {
+              "color": "#c94b60",
+              "code": "11",
+              "name": "Petal Blush",
+              "image": "./assets/images/products/lipglasting/11-Petal-Blush_WVS_84186OK.png"
+            }
+          ]
+        },
+        {
+          "category": "Moist Dew Tint",
+          "categoryImage": "./assets/images/products/moist-dew-title.png",
+          "item": [
+            {
+              "color": "#ef8d9c",
+              "code": "02",
+              "name": "Pink Lemonade",
+              "image": "./assets/images/products/moistdewtint/02-pink-lemonade.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Velvet Matte Lip Mousse",
+          "categoryImage": "./assets/images/products/lip-mousse-title.png",
+          "item": [
+            {
+              "color": "#c55264",
+              "code": "06",
+              "name": "Fuchsia Lover",
+              "image": "./assets/images/products/lipmousse/06-fuchsia-lover.png"
+            },
+            {
+              "color": "#d05349",
+              "code": "11",
+              "name": "Cherish Marmalade",
+              "image": "./assets/images/products/lipmousse/11-cherish-marmalade.png"
+            },
+            {
+              "color": "#d37472",
+              "code": "19",
+              "name": "Peony Bliss",
+              "image": "./assets/images/products/lipmousse/19-peony-bliss.png"
+            },
+            {
+              "color": "#d56c74",
+              "code": "20",
+              "name": "Rosy Bloom",
+              "image": "./assets/images/products/lipmousse/20-rosy-bloom.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Last All Day Lip Paint",
+          "categoryImage": "./assets/images/products/lip-paint-title.png",
+          "item": [
+            {
+              "color": "#f491a6",
+              "code": "01",
+              "name": "Peach Till Drop",
+              "image": "./assets/images/products/lippaint/01-peach-till-drop.png"
+            },
+            {
+              "color": "#b72456",
+              "code": "11",
+              "name": "Everlast Pink",
+              "image": "./assets/images/products/lippaint/11-everlast-pink.png"
+            },
+            {
+              "color": "#c84772",
+              "code": "12",
+              "name": "Berry Lasting",
+              "image": "./assets/images/products/lippaint/12-berry-lasting.png"
+            },
+            {
+              "color": "#d18b8e",
+              "code": "14",
+              "name": "Royal London",
+              "image": "./assets/images/products/lippaint/14-royal-london.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Ultralight Matte Lipstick",
+          "categoryImage": "./assets/images/products/lipstick-title.png",
+          "item": [
+            {
+              "color": "#df799a",
+              "code": "01",
+              "name": "Parfait Pink",
+              "image": "./assets/images/products/lipstick/01-parfait-pink.png"
+            },
+            {
+              "color": "#f26c6b",
+              "code": "02",
+              "name": "Summer Peach",
+              "image": "./assets/images/products/lipstick/02-summer-peach.png"
+            },
+            {
+              "color": "#af1f5c",
+              "code": "06",
+              "name": "Punch Fuchsia",
+              "image": "./assets/images/products/lipstick/06-punch-fuchsia.png"
+            }
+          ]
+        }
+      ],
+      "eyes": [
+        {
+          "category": "Exclusive Eyeshadow 02 Rose Gold",
+          "categoryImage": "./assets/images/products/eye-title-1-2.png",
+          "item": [
+            {
+              "colors": [
+                "#fce1d4",
+                "#c99278",
+                "#e6b8ae",
+                "#bb8077",
+                "#a85e4c",
+                "#b66a66",
+                "#6f4d3e",
+                "#393733"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Quad Eye Palette",
+          "categoryImage": "./assets/images/products/eye-title-2.png",
+          "item": [
+            {
+              "image": "./assets/images/cooltone/cool_eye_2.png",
+              "colors": [
+                "#dd927e",
+                "#f7caad",
+                "#d46659",
+                "#ba3f41"
+              ]
+            }
+          ]
+        }
+      ],
+      "blushOn": [
+        {
+          "color": "#dd7975",
+          "image": "./assets/images/cooltone/cool_blush_1.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Sand Coral"
+        },
+        {
+          "color": "#f0806f",
+          "image": "./assets/images/warmtone/warm_blush_2.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Summer Peach"
+        },
+        {
+          "color": "#d69495",
+          "image": "./assets/images/cooltone/cool_blush_3.png",
+          "category": "Exclusive Blush On",
+          "name": "Rosy Pink"
+        },
+        {
+          "color": "#dc7a7a",
+          "image": "./assets/images/warmtone/cream_blush_4.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Ethereal Rose"
+        },
+        {
+          "color": "#a13a51",
+          "image": "./assets/images/warmtone/cream_blush_5.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Peaceful Plum"
+        }
+      ]
+    },
+    {
+      "season": "winter",
+      "tone": "cool",
+      "headerBG": "./assets/images/header/winter.png",
+      "headerTitle": "./assets/images/header/personal.png",
+      "palette": [
+        "#FFFFFF",
+        "#C02BC5",
+        "#01219C",
+        "#74FDD9",
+        "#FFD2FF",
+        "#A1A0A5",
+        "#DC81FA",
+        "#0EC5FC",
+        "#A41C4E",
+        "#5450CB",
+        "#655555",
+        "#F9FA9C",
+        "#2573E2",
+        "#D62B55",
+        "#9F1C4D",
+        "#000000",
+        "#B7B3FF",
+        "#704FDE",
+        "#C0278B",
+        "#26CB7C"
+      ],
+      "makeupTitleBG": "./assets/images/header/winter_title.png",
+      "lips": [
+        {
+          "category": "Matte Lip Cream",
+          "categoryImage": "./assets/images/products/lip-cream-title.png",
+          "item": [
+            {
+              "color": "#a92431",
+              "code": "01",
+              "name": "Red Dicted",
+              "image": "./assets/images/products/lipcream/01-red-dicted.png"
+            },
+            {
+              "color": "#bc6a71",
+              "code": "12",
+              "name": "Plum It Up",
+              "image": "./assets/images/products/lipcream/12-plump-it-up.png"
+            },
+            {
+              "color": "#d1777f",
+              "code": "13",
+              "name": "Fruit Punch",
+              "image": "./assets/images/products/lipcream/13-fruit-punch.png"
+            },
+            {
+              "color": "#c5516d",
+              "code": "16",
+              "name": "Heartbeet",
+              "image": "./assets/images/products/lipcream/16-heartbeet.png"
+            },
+            {
+              "color": "#c57175",
+              "code": "17",
+              "name": "Rosy Cheek",
+              "image": "./assets/images/products/lipcream/17-rosy-cheek.png"
+            },
+            {
+              "color": "#bf555f",
+              "code": "25",
+              "name": "Unbeetable",
+              "image": "./assets/images/products/lipcream/25-Unbeetable_WVS_84674OK.png"
+            }
+          ]
+        },
+        {
+          "category": "Glasting Liquid Lip",
+          "categoryImage": "./assets/images/products/lip-glasting-title.png",
+          "item": [
+            {
+              "color": "#d56c74",
+              "code": "05",
+              "name": "Glazing Berry",
+              "image": "./assets/images/products/lipglasting/05-glazing-berry.png"
+            },
+            {
+              "color": "#931427",
+              "code": "08",
+              "name": "Plush Pome",
+              "image": "./assets/images/products/lipglasting/08-Plush-Pome_WVS_84344OK.png"
+            },
+            {
+              "color": "#9a2040",
+              "code": "12",
+              "name": "Shine Sorbet",
+              "image": "./assets/images/products/lipglasting/12-Shine-Sorbet_WVS_84377OK.png"
+            }
+          ]
+        },
+        {
+          "category": "Moist Dew Tint",
+          "categoryImage": "./assets/images/products/moist-dew-title.png",
+          "item": [
+            {
+              "color": "#eb6984",
+              "code": "01",
+              "name": "Rosemilk Parfait",
+              "image": "./assets/images/products/moistdewtint/01-rosemilk-parfait.png"
+            },
+            {
+              "color": "#812f46",
+              "code": "08",
+              "name": "Mulberry Shake",
+              "image": "./assets/images/products/moistdewtint/08-mulberry-shake.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Velvet Matte Lip Mousse",
+          "categoryImage": "./assets/images/products/lip-mousse-title.png",
+          "item": [
+            {
+              "color": "#b04a5a",
+              "code": "04",
+              "name": "Pink Sweetheart",
+              "image": "./assets/images/products/lipmousse/04-pink-sweetheart.png"
+            },
+            {
+              "color": "#ba3d43",
+              "code": "21",
+              "name": "Magnetic Red",
+              "image": "./assets/images/products/lipmousse/21-magnetic-red.png"
+            },
+            {
+              "color": "#d3677e",
+              "code": "22",
+              "name": "Posie Plum",
+              "image": "./assets/images/products/lipmousse/22-posie-plum.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Last All Day Lip Paint",
+          "categoryImage": "./assets/images/products/lip-paint-title.png",
+          "item": [
+            {
+              "color": "#bb394e",
+              "code": "09",
+              "name": "Timeless Rose",
+              "image": "./assets/images/products/lippaint/09-timeless-rose.png"
+            },
+            {
+              "color": "#ee8599",
+              "code": "10",
+              "name": "Forever Mauve",
+              "image": "./assets/images/products/lippaint/10-forever-mauve.png"
+            },
+            {
+              "color": "#ad5c59",
+              "code": "21",
+              "name": "Venice Muse",
+              "image": "./assets/images/products/lippaint/21-venice-muse.png"
+            },
+            {
+              "color": "#bf7e7b",
+              "code": "23",
+              "name": "Kyoto Adore",
+              "image": "./assets/images/products/lippaint/23-kyoto-adore.png"
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Ultralight Matte Lipstick",
+          "categoryImage": "./assets/images/products/lipstick-title.png",
+          "item": [
+            {
+              "color": "#c55257",
+              "code": "05",
+              "name": "Blossom Pink",
+              "image": "./assets/images/products/lipstick/05-blossom-pink.png"
+            },
+            {
+              "color": "#ad2028",
+              "code": "13",
+              "name": "Upbeat Hongdae",
+              "image": "./assets/images/products/lipstick/13-upbeat-hongdae.png"
+            }
+          ]
+        }
+      ],
+      "eyes": [
+        {
+          "category": "Exclusive Eyeshadow 02 Rose Gold",
+          "categoryImage": "./assets/images/products/eye-title-1-2.png",
+          "item": [
+            {
+              "colors": [
+                "#fce1d4",
+                "#c99278",
+                "#e6b8ae",
+                "#bb8077",
+                "#a85e4c",
+                "#b66a66",
+                "#6f4d3e",
+                "#393733"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Colorfit Quad Eye Palette",
+          "categoryImage": "./assets/images/products/eye-title-2.png",
+          "item": [
+            {
+              "image": "./assets/images/cooltone/cool_eye_2.png",
+              "colors": [
+                "#dd927e",
+                "#f7caad",
+                "#d46659",
+                "#ba3f41"
+              ]
+            }
+          ]
+        }
+      ],
+      "blushOn": [
+        {
+          "color": "#dd7975",
+          "image": "./assets/images/cooltone/cool_blush_1.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Sand Coral"
+        },
+        {
+          "color": "#cf6f77",
+          "image": "./assets/images/cooltone/cool_blush_2.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Merry Mauve"
+        },
+        {
+          "color": "#d69495",
+          "image": "./assets/images/cooltone/cool_blush_3.png",
+          "category": "Exclusive Blush On",
+          "name": "Rosy Pink"
+        },
+        {
+          "color": "#a13a51",
+          "image": "./assets/images/warmtone/cream_blush_5.png",
+          "category": "Colorfit Cream Blush",
+          "name": "Peaceful Plum"
+        }
+      ]
+    }
+  ]
+}
